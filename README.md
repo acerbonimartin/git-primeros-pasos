@@ -13,7 +13,7 @@ Ahora si, podemos empezar con el ejercicio!
 6. Volve a master para seguir avanzando.
 7. Agrega 2 comidas más que te gusten y sus imagenes correspondientes.
 8. Clasifica tus gustos en 2 o 3 grupos. Usando esa clasificación, crear archivos con los nombres de los grupos en el directorio `/files` y distribui el contenido del archivo orginal en los archivos de la clasificación. Elimina el archivo original.
-9. Crea el directorio `/recipes` dentro de `/files` e inclui recetas para todas las comidas.
+9. En un nuevo branch, crea el directorio `/recipes` dentro de `/files` e inclui recetas para todas las comidas.
 10. Volve a master para seguir avanzando.
 11. Usa la clasificación del punto 8 para agrupar las imagenes de `/images` en subdirectorios.
 12. Agregar los cambios del punto 9 en master usando comandos git.
